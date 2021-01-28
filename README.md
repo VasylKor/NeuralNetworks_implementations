@@ -1,0 +1,3 @@
+# NN_applications
+A repo with applications from research papers.\
+It contains models as well as other features such as attacks, feature implementation etc...
