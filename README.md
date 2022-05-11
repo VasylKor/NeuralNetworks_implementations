@@ -1,3 +1,3 @@
-# NN_applications
+# NeuralNetworks_implementations
 A repo with neural networks implementations from research papers.\
 It contains models as well as other features such as adversarial attacks, feature implementation etc...
